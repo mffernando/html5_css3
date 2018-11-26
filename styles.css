@@ -19,3 +19,24 @@ ol{
 ul{
     list-style: circle;
 }
+
+.blue-paragraph{
+    color: blue;
+}
+
+/* id */
+#main-headling{
+    color: green
+}
+
+.special-worlds{
+    color: cyan;
+}
+
+.group{
+    font-style: italic;
+}
+
+.group h4{
+    color: red;
+}
